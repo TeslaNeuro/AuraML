@@ -6,7 +6,7 @@
 
 - Human Presence Detection: Use machine learning to identify human presence and activities.
 
-- Real-Time Environmental Monitoring: Measure and analyze ambient conditions such as temperature, humidity, and light intensity.
+- Real-Time Environmental Monitoring: Measure and analyze ambient conditions such as temperature, humidity, light intensity and other unique sensing mechanisms to acquire useful data for real-time control and analysis.
 
 - Adaptive Environmental Control: Dynamically adjust environmental settings based on sensed data.
 
