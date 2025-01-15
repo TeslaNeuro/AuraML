@@ -1,6 +1,6 @@
 # ElectroAuraML: Human-Aware Ambient Detection and Environmental Control
 
-- ElectroAuraML is a personal project I am working on currently solely to leverage machine learning to enable human presence detection, ambient condition monitoring, and intelligent environmental control. The goal is to create an adaptable system/systems that enhance comfort, efficiency, and sustainability in various settings using machine learning models.
+- ElectroAuraML is a personal project I am working on currently in its early stages, solely to leverage machine learning to enable human presence detection, ambient condition monitoring, and intelligent environmental control. The goal is to create an adaptable system/systems that enhances comfort, efficiency, and sustainability in various settings using machine learning models.
 
 ## Features
 
