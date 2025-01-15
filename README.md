@@ -1,6 +1,6 @@
-# AuraML: Human-Aware Ambient Detection and Environmental Control
+# ElectroAuraML: Human-Aware Ambient Detection and Environmental Control
 
-- AuraML is an open-scope project focused on leveraging machine learning to enable human presence detection, ambient condition monitoring, and intelligent environmental control. The goal is to create adaptable systems that enhance comfort, efficiency, and sustainability in various settings.
+- ElectroAuraML is a personal project I am working solely focusing on leveraging machine learning to enable human presence detection, ambient condition monitoring, and intelligent environmental control. The goal is to create adaptable systems that enhance comfort, efficiency, and sustainability in various settings.
 
 ## Features
 
