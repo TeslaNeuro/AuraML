@@ -16,7 +16,7 @@
 
 Develop a modular and scalable architecture for integrating machine learning with environmental control systems.
 
-Ensure compatibility with a wide range of sensors and devices.
+Ensure systems integration with a wide range of sensors and devices required for implementation.
 
 Provide a framework that supports real-time decision-making and adaptability.
 
